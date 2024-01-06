@@ -1,0 +1,246 @@
+html, body {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+*
+{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+
+/*Napis CZW na górze strony*/
+.h1
+{
+    font-size: 18px;
+    font-family: serif;
+    font-style: italic;
+}
+
+span{
+    font-size: 12px;
+}
+
+body
+{
+    background-image: url(Rybka.jpg);
+/*    background-size: cover;*/
+}
+
+
+#logo
+{
+    width: 300px;
+    border-radius: 5px;
+}
+
+
+#logostr
+{
+    width: 300px;
+    border-radius: 5px;
+}
+
+
+a
+{
+   font-family:;
+    color: grey;
+    text-decoration: none ;
+    transition: color 0.25s;
+    font-size: 12px;
+}
+
+
+/* a:visited
+{
+    color:gray;
+  font-size: 15x;
+} */
+
+
+a:hover
+{
+    text-decoration: underline;
+    color: deepskyblue;
+}
+
+.formlink
+{
+    font-family:;
+    color: #007bff;
+    transition: color 0.25s;
+    margin-right: px;
+    font-size: 7x;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.formlink:hover
+{
+  text-decoration: underline;
+  color: #fb00ff;
+  font-size: 7x;
+  font-style: italic;
+}
+
+.sg
+{
+    font-family: "fantasy";
+}
+
+
+#przywitanie
+{
+    color:aqua;
+    font-weight: 700;
+    font-family: serif;
+    font-style: italic;
+    font-size: 19px;
+}
+
+
+.kartaczw
+{
+    font-size: 15px;
+    line-height: 25px;
+}
+
+
+#blue
+{
+    color: deepskyblue;
+    font-size: 15px;
+}
+
+
+#TWNT
+{
+    color:aqua;
+    font-family: serif;
+    font-style: italic;
+    font-size: 19px;
+}
+
+
+.stopa
+{
+    font-size: 15px;
+    font-family: serif;
+}
+
+
+/*
+ol
+{
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 25px;
+}
+*/
+
+hr
+{
+    margin-right: 50px;
+}
+
+#artykul1
+{
+   line-height: 25px;
+    margin-right: 50px; 
+    font-size: 15px;
+}
+
+.email
+{
+     color:cornflowerblue;
+    font-weight: 700;
+    font-family: serif;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.Winner
+{
+    font-size: 15px;
+    line-height: 25px;
+    color:goldenrod;
+}
+
+.formularz
+{
+  border-radius: 13px;
+  background-color: #aeaeea;
+}
+
+caption
+{
+  text-align: left;
+}
+
+#karta
+{
+      width: 250px;
+    border-radius: 5px;
+}
+
+#red 
+{
+  color: red;
+  font-style: italic;
+  font-family: serif;
+font-size: 15px;
+} 
+  
+#list
+{
+  list-style: circle;
+}
+
+input
+{
+  color: black;
+  font-size: 5px;
+}
+
+iframe{
+    height: 400px;
+    width: 325px;
+    font-size: 4px;
+}
+
+#button{
+    font-size: 15px;
+    color: black;
+}
+
+#button:hover{
+   background-color: aqua;
+}
+
+#YT{
+    width: 300px;
+    height: 300px;
+}
+
+.SuperWinner {
+   color: red;
+   animation-name: moja_animacja;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;
+   font-size: 15px;
+  
+    line-height: 25px;
+}
+    
+@keyframes moja_animacja {
+   0% {color: red;}
+   50% {color: yellow;}
+} 
