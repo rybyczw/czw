@@ -33,8 +33,8 @@ body
 
 #logo
 {
-    width: 300px;
-    border-radius: 5px;
+    width: 275px;
+    border-radius: 3px;
 }
 
 
@@ -51,7 +51,7 @@ a
     color: grey;
     text-decoration: none ;
     transition: color 0.25s;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 
@@ -151,11 +151,11 @@ hr
     margin-right: 50px;
 }
 
-#artykul1
+.artykul1
 {
    line-height: 25px;
     margin-right: 50px; 
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .email

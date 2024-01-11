@@ -32,14 +32,14 @@ body
 #logo
 {
     width: 475px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 
 #logostr
 {
     width: 250px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 
@@ -149,7 +149,7 @@ hr
     margin-right: 50px;
 }
 
-#artykul1
+.artykul1
 {
    line-height: 25px;
     margin-right: 50px;
