@@ -1,0 +1,54 @@
+body{
+/*     background-color: #C6DAFC; */
+    background-image: url("Rybka.jpg");
+    font-size: 150%;
+    border-radius: 20px;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2%;
+}
+
+img:hover{
+    filter: contrast(10%);
+  transition: filter 0.25s;
+}
+
+footer{
+    text-align: center;
+  color: white;
+}
+
+.header{
+  backdrop-filter: blur(10px);
+  background-color: #00eeff;
+  padding: 2px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.content{
+  font-family: sans-serif;
+  color: white;
+}
+
+ul{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+a{
+  margin-left: auto;
+  margin-right: auto;
+  color: #0033ff;
+  font-family: sans-serif;
+}
+
+a:hover{
+  color: cyan;
+  text-decoration: underline;
+}
