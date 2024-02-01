@@ -40,14 +40,14 @@ body
 
 #logostr
 {
-    width: 300px;
-    border-radius: 5px;
+    width: 275px;
+    border-radius: 3px;
 }
 
 
 a
 {
-   font-family:;
+   /* font-family: */
     color: grey;
     text-decoration: none ;
     transition: color 0.25s;
@@ -70,7 +70,7 @@ a:hover
 
 .formlink
 {
-    font-family:;
+    /* font-family:; */
     color: #007bff;
     transition: color 0.25s;
     margin-right: px;
