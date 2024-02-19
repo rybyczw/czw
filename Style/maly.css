@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    margin-right: 20px;
+}
+
+article{
+    margin-right: 5%;
+}
+
+header:hover{
+    background-color: #0076ff;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.dropdown {
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.logo{
+    width: 25px;
+    float: left;
+    border-radius: 50%;
+}
+
+.CZW{
+    float:left;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: serif;
+    font-style: italic;
+}
+
+section{
+    margin-left: 20px;
+}
+
+.banner{
+    width: 70%;
+/*    border: solid 1px;*/
+}
+
+h1{
+    color:#0076ff;
+    font-weight: 700;
+    font-family: serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+footer{
+    margin-left: 20px;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.red{
+    font-weight: 700;
+    font-family: serif;
+    font-style: italic;
+    font-size: 24px;
+    color:red;
+}
+
+.blue{
+    color: blue;
+    font-size: 18px;
+}
+
+.artykul1{
+    color: #282828;
+    font-size: 15px;
+}
+
+#aktualnosci{
+    color: red;
+    font-size: 20px;
+}
+
+a{
+    transition: color 0.5s ease;
+}
+
+a:hover{
+    color:#c1c1c1;
+}
+
+.kontakt{
+    font-size: 99%;
+    font-weight: bold;
+}
+
+
+
+
+
+.czlonkowie{
+    font-size: 20px;
+    color: blue;
+    font-family: serif;
+    font-style: italic;
+}
+
+
+
+
+.zdj{
+    width: 70%
+}

@@ -1,0 +1,20 @@
+.SuperWinner {
+   color: red;
+   animation-name: moja_animacja;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;
+}
+    
+@keyframes moja_animacja {
+   0% {color: red;}
+   50% {color: #ffba00;}    
+}
+
+.Winner{
+    color: #ffba00;
+}
+
+.galeria-link{
+    color: blue;
+    text-decoration: underline;
+}
