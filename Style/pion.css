@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(0, 177, 255);
+    background-color: rgb(70, 113, 255);
     color: #fff;
     padding: 15px;
     position: fixed;
@@ -7,8 +7,6 @@ header {
     z-index: 1000;
     padding: 15px;
     width: 100%;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
     transition: background-color 0.5s ease;
 }
 
