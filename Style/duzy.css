@@ -27,10 +27,9 @@ nav ul li {
 }
 
 nav a {
-    text-decoration: none;
     color: #fff;
-    font-weight: bold;
     font-size: 16px;
+    text-decoration: underline;
 }
 
 .dropdown {
