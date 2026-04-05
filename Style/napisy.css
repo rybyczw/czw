@@ -1,11 +1,11 @@
 .SuperWinner {
    color: red;
-   animation-name: moja_animacja;
+   animation-name: Superwinner;
    animation-duration: 5s;
    animation-iteration-count: infinite;
 }
     
-@keyframes moja_animacja {
+@keyframes Superwinner {
    0% {color: red;}
    50% {color: #ffba00;}    
 }
